@@ -1,0 +1,1 @@
+This file is for practicing creating a local directory and connecting to a remote repository.
